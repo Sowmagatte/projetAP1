@@ -1,0 +1,30 @@
+{
+  "Books": [
+    {
+      "Title": "Mourad",
+      "Year": 2025,
+      "Author": "Mourad",
+      "ISBN": "3444",
+      "Id": "4ab26199-4cea-46bf-a141-1e577f9a24d1",
+      "IsBorrowed": false,
+      "BorrowerId": null
+    },
+    {
+      "Title": "Notion c#",
+      "Year": 2022,
+      "Author": "Magatte Sow",
+      "ISBN": "456uyv89",
+      "Id": "4ffc9757-a84a-4021-98f6-74148c681789",
+      "IsBorrowed": false,
+      "BorrowerId": null
+    }
+  ],
+  "Users": [
+    {
+      "Id": "682e22d7-c25a-45d8-9d98-cd88a3ca7ce3",
+      "FirstName": "",
+      "LastName": "",
+      "Type": ""
+    }
+  ]
+}

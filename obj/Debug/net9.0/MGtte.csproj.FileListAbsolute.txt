@@ -1,0 +1,21 @@
+C:\AP1\MGtte\bin\Debug\net9.0\MGtte.exe
+C:\AP1\MGtte\bin\Debug\net9.0\MGtte.deps.json
+C:\AP1\MGtte\bin\Debug\net9.0\MGtte.runtimeconfig.json
+C:\AP1\MGtte\bin\Debug\net9.0\MGtte.dll
+C:\AP1\MGtte\bin\Debug\net9.0\MGtte.pdb
+C:\AP1\MGtte\obj\Debug\net9.0\MGtte.GeneratedMSBuildEditorConfig.editorconfig
+C:\AP1\MGtte\obj\Debug\net9.0\MGtte.AssemblyInfoInputs.cache
+C:\AP1\MGtte\obj\Debug\net9.0\MGtte.AssemblyInfo.cs
+C:\AP1\MGtte\obj\Debug\net9.0\MGtte.csproj.CoreCompileInputs.cache
+C:\AP1\MGtte\obj\Debug\net9.0\MGtte.dll
+C:\AP1\MGtte\obj\Debug\net9.0\refint\MGtte.dll
+C:\AP1\MGtte\obj\Debug\net9.0\MGtte.pdb
+C:\AP1\MGtte\obj\Debug\net9.0\MGtte.genruntimeconfig.cache
+C:\AP1\MGtte\obj\Debug\net9.0\ref\MGtte.dll
+C:\cours\Cours Algo.Program\MGtte\MGtte\obj\Debug\net9.0\MGtte.GeneratedMSBuildEditorConfig.editorconfig
+C:\cours\Cours Algo.Program\MGtte\MGtte\obj\Debug\net9.0\MGtte.AssemblyInfoInputs.cache
+C:\cours\Cours Algo.Program\MGtte\MGtte\obj\Debug\net9.0\MGtte.AssemblyInfo.cs
+C:\cours\Cours Algo.Program\MGtte\MGtte\obj\Debug\net9.0\MGtte.csproj.CoreCompileInputs.cache
+C:\cours\Cours Algo.Program\MGtte\MGtte\obj\Debug\net9.0\MGtte.dll
+C:\cours\Cours Algo.Program\MGtte\MGtte\obj\Debug\net9.0\refint\MGtte.dll
+C:\cours\Cours Algo.Program\MGtte\MGtte\obj\Debug\net9.0\MGtte.pdb
